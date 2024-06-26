@@ -1,17 +1,17 @@
-<h2 align="left">Olá 👋! Meu nome é Pedro e me aventuro por códigos desde 2014 🙋🏻‍♂️</h2>
+<h2 align="left">Olá | Me chamo Pedro, seja bem vindo👋!</h2>
 
-###
+
 
 <br clear="both">
 
 <div align="left">
 </div>
 
-###
+
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
